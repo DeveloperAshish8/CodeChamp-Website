@@ -11,13 +11,13 @@ This is a Open Source Community Website in which you can get Well arranged cours
 
 ## Acknowledgements
 
- - [Visit our website](https://codechamp.netlify.app/)
- - [Join CodeChamp](https://discord.gg/URmG5DR6)
+ - [📌Visit our website](https://codechamp.netlify.app/)
+ - [📌Join CodeChamp](https://discord.gg/URmG5DR6)
 
 
 ## Contributing
 
-Contributions are always welcome!
+Contributions are always welcome😃 !
 
 ## Screenshots
 
