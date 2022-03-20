@@ -19,5 +19,10 @@ This is a Open Source Community Website in which you can get Well arranged cours
 
 Contributions are always welcome!
 
+## Screenshots
 
+<img src="./images/Home page ss.png" alt="Sublime's custom image" />
 
+<img src="./images/courses page ss.png" alt="Sublime's custom image" />
+
+<img src="./images/join us page ss.png" alt="Sublime's custom image"/>
