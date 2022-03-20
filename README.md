@@ -8,6 +8,10 @@
 
 This is a Open Source Community Website in which you can get Well arranged courses, Internships updates. It also contains a join us page having links of different social media handles. This website aims to give best free courses reach to everyone and to keep everyone updated about all the opportunity.
 
+## Tech Stacks
+
+<img src="./images/Html image.png" alt="Sublime's custom image" width="100px" height="120px"/>  <img src="./images/Css image.png" alt="Sublime's custom image" width="100px" height="120px"/>  <img src="./images/bootstrap.png" alt="Sublime's custom image" width="100px" height="120px"/>  <img src="./images/javascript.png" alt="Sublime's custom image" width="100px" height="120px"/>
+
 
 ## Acknowledgements
 
