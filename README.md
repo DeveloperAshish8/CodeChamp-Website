@@ -4,7 +4,7 @@
 
 
 
-# CodeChamp-Website
+<h1 align="center"> CodeChamp-Website </h1>
 
 This is a Open Source Community Website in which you can get Well arranged courses, Internships updates. It also contains a join us page having links of different social media handles. This website aims to give best free courses reach to everyone and to keep everyone updated about all the opportunity.
 
@@ -30,3 +30,17 @@ Contributions are always welcome😃 !
 <img src="./images/courses page ss.png" alt="Sublime's custom image" />
 
 <img src="./images/join us page ss.png" alt="Sublime's custom image"/>
+
+<h1 align="center"> PROJECT MAINTAINER </h1>
+<p align="center">
+  <img src="./images/Admin Image.jpeg" alt="Sublime's custom image" width="200px"/>
+</p>
+
+## CONTACTS
+
+Please visit Admins Git-hub profile for contact details.
+
+
+
+
+
