@@ -1,0 +1,26 @@
+body{
+    background-image: url(./images/join\ us\ background.jpg);
+}
+
+.Subject{
+    padding: 25px;
+    margin-top: 10px;
+}
+.thumbnail{
+    padding: 25px;
+    margin: auto;
+    max-width:300px;
+    max-height:400px;
+}
+
+.heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:bold;
+    margin-left: 40px;
+    color: rgb(21, 255, 0);
+}
+
+.copyright-content{
+    margin-top: 50px;
+    text-align: center;
+}

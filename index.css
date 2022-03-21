@@ -1,0 +1,78 @@
+body{
+    background-image: url(./images/join\ us\ background.jpg);
+}
+
+
+.Intro_line{
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+    font-size: larger;
+    font-family: sans-serif;
+}
+
+.heading{
+    font-weight: 1000;
+    margin-left: 80px;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.about{
+    margin-left: 80px;
+    font-size: 19px;
+    font-family: serif;
+}
+.join-now{
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+
+.Join_us_here{
+    font-weight:bolder;
+    color: rgb(255, 123, 0);
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.join_us{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.join_now{
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+.card-group{
+    padding: 80px;
+}
+.Links{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.Quick_intro{
+    padding: 10px;
+    margin-top: 20px;
+}
+
+div > h2{
+    font-weight: bolder;
+    color: rgb(9, 252, 9);
+    text-align: center;
+}
+
+.FAQ{
+    margin-top: 20px;
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(13, 252, 45);
+    font-weight: bolder;
+}
+.copyright-content{
+    margin-top: 50px;
+    text-align: center;
+}
