@@ -59,6 +59,11 @@ body{
     margin-top: 20px;
 }
 
+.btn:hover{
+    background-color: rgb(197, 5, 255);
+    padding: 10px 15px;
+}
+
 div > h2{
     font-weight: bolder;
     color: rgb(9, 252, 9);
