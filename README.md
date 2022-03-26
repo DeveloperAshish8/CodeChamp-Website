@@ -27,7 +27,7 @@ Contributions are always welcome😃 !
 
 <img src="./images/Home page ss.png" alt="Sublime's custom image" />
 
-<img src="./images/courses page ss.png" alt="Sublime's custom image" />
+<img src="./images/courses ss.png" alt="Sublime's custom image" />
 
 <img src="./images/join us page ss.png" alt="Sublime's custom image"/>
 
